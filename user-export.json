@@ -1,0 +1,14 @@
+[
+  {
+    "id": 2,
+    "username": "jan.sulaiman@1nce.com",
+    "password_hash": "scrypt:32768:8:1$rjdsB3DRjA6fIkLH$f8fb936ddb8b61c7ab92501ed2731502407f458e7c5e906d5de27f075ca5c41086f8b6477329c88e5a45e5d3eb41276d53aa52a1a3a80095b515b8cd995b3b1b",
+    "is_admin": null
+  },
+  {
+    "id": 3,
+    "username": "admin",
+    "password_hash": "scrypt:32768:8:1$rjamhydWK4VdJBFm$a15fa6286c880e12e0e276a3f6fe00124c0517ee6c473e97665a69b36c9b09d29c5dd609dadc8ea882b6a449fcec1fd7b935fd1bb15ceb481b74bac0699c7c44",
+    "is_admin": 1
+  }
+]

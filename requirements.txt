@@ -1,0 +1,11 @@
+Flask
+Werkzeug
+boto3
+flask
+flask-sqlalchemy
+numpy
+pandas
+plotly
+pydeck
+streamlit
+werkzeug
